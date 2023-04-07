@@ -1,0 +1,43 @@
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_C# Проекты\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\ПреобразовательКиЗ\Тест(ODBC)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_VS2010\_Проекты\ПробитьПотеряшку\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
